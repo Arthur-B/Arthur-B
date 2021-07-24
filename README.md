@@ -26,7 +26,7 @@ Check out the repository: [`game-of-life`](https://github.com/Arthur-B/game-of-l
 
 ### 🐍 Reinforcement learning snake 🐍
 
-Trying to teach my little computer how to play snake.
+Inspired by ["Human-level control through deep reinforcement learning"](https://doi.org/10.1038/nature14236) (here is the accessible [ArXiv version](https://arxiv.org/abs/1312.5602)), I taught my little computer how to play snake.
 I developed a game environment tailored for reinforcement learning and implemented DQN algorithm in PyTorch.
 Look at him go!
 
