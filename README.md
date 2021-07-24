@@ -20,6 +20,7 @@ There are some nifty tricks to run the life simulation in parallel with minimal 
 Check out the repository: [`game-of-life`](https://github.com/Arthur-B/game-of-life)
 
 <br>
+<br>
 
 <img width="200" align="right" style="padding-left: 10px" src="./assets/life_200x200.gif" />
 
