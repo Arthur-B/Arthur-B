@@ -8,7 +8,9 @@
 
 ## Recent projects
 
-<img style="padding-right: 10px; float: left;" src="./assets/life_200x200.gif" />
+<p>
+  <img width="200" align="left" style="padding-right: 10px" src="./assets/life_200x200.gif" />
+</p>
 
 ### 🌱 Game of Life 🌱
 
@@ -19,7 +21,7 @@ Check out the repository: [`game-of-life`](https://github.com/Arthur-B/game-of-l
 
 <br>
 
-<img style="padding-left: 10px; float: right;" src="./assets/life_200x200.gif" />
+<img width="200" align="right" style="padding-left: 10px" src="./assets/life_200x200.gif" />
 
 ### 🐍 Reinforcement learning snake 🐍
 
