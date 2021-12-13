@@ -3,10 +3,21 @@
 
 - 👋 Hi, I am @Arthur-B, a PhD student in Material Science applying Machine Learning to develop nanomaterials with on demand properties.
 - 👀 I am interested in Data Science, Machine Learning, and generative processes.
-- 🌱 I am currently on a PyTorch deep dive, to apply some skills I learned during my PhD to new interesting problems. I am also learning Django to build some web app.
+- 🌱 I am currently on a PyTorch deep dive, to apply some skills I learned during my PhD to new interesting problems. I am also learning Django and React to build some web app.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/arthur-baucour/)
 
 ## Recent projects
+
+
+### 📒 Experimental equipment logging platform 📒
+
+Based on my experience operating fabrication equipement during my PhD, I developed a single-page webapp to log experimental results and perform regression to help plan next experiments.
+It is developed using Django for the backend, React for the frontend, and Recharts for the visualization.
+
+Check out the repository: [`equipment-logging`](https://github.com/Arthur-B/equipment-logging)
+
+<br>
+<br>
 
 <p>
   <img width="200" align="left" style="padding-right: 10px" src="./assets/life_200x200.gif" />
