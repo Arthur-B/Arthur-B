@@ -60,7 +60,7 @@ Check out the repository: [`RL-snake`](https://github.com/Arthur-B/RL-snake)
 
 ### NumPy
 
-Pi is an ubiquitous constant that can be estimated by various methods. Every year around Pi-day, pi visualizations bloom over the internet, . However, is it the fastest? In this repository, I explore different ways to determine Pi and their visualizations.
+Pi is an ubiquitous constant that can be estimated by various methods. Every year around Pi-day, pi visualizations, such as Monte-Carlo simulations (on the left), bloom over the internet. However, which one is it the fastest? Or the prettiest?! In this repository, I explore different ways to determine Pi, thei convergence speed, and their visualizations.
 
-Check out the repository: [`RL-snake`](https://github.com/Arthur-B/pi-estimate)
+Check out the repository: [`pi-estimate`](https://github.com/Arthur-B/pi-estimate)
 
