@@ -26,7 +26,7 @@ Check out the repository: [`equipment-logging`](https://github.com/Arthur-B/equi
 
 ## 🌱 Game of Life 🌱
 
-### PyTorch, Pygame
+### PyTorch
 
 I have been working on a PyTorch implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 There are some nifty tricks to run the life simulation in parallel with minimal code thanks to convolutions and a simple neural network with fixed weights to perform logic operations.
@@ -40,7 +40,7 @@ Check out the repository: [`game-of-life`](https://github.com/Arthur-B/game-of-l
 
 ## 🐍 Reinforcement learning snake 🐍
 
-### PyTorch
+### PyTorch, Pygame
 
 Inspired by ["Human-level control through deep reinforcement learning"](https://doi.org/10.1038/nature14236) (here is the accessible [ArXiv version](https://arxiv.org/abs/1312.5602)), I taught my little computer how to play snake.
 I developed a game environment tailored to reinforcement learning and implemented DQN algorithm in PyTorch.
