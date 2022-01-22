@@ -36,7 +36,7 @@ Check out the repository: [`game-of-life`](https://github.com/Arthur-B/game-of-l
 <br>
 <br>
 
-<img width="200" align="right" style="padding-left: 10px" src="./assets/life_200x200.gif" />
+<img width="200" align="right" style="padding-left: 10px" src="./assets/snake_thumbnail.gif" />
 
 ## 🐍 Reinforcement learning snake 🐍
 
